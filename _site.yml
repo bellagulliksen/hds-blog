@@ -2,7 +2,7 @@ name: "."
 title: "My Visualisation blog for HDS"
 description: |
   My Visualisation blog for HDS
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
